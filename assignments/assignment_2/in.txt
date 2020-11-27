@@ -1,0 +1,10 @@
+Nagy Henrietta;2;3;3;5;3
+Kovács Jázmin;1;4;1;3;3
+Tóth Lili;5;3;1;1;1
+Horváth Kinga;4;2;5;3;3
+Kiss Bianka;4;1;4;4;4
+Varga Janka;2;3;4;1;5
+Balogh Mira;4;2;2;1;4
+Molnár Blanka;1;4;3;1;4
+Németh Boglárka;1;2;5;2;5
+Papp Liza;3;1;4;3;5
